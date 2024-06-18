@@ -1,4 +1,4 @@
-<h1 align="center">AssalamuAlaikum, Alif</h1>
+<h1 align="center">AssalamuAlaikum, I am Alif a frontend dev</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh....</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alifhosain" alt="alifhosain" /></a> </p>
